@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="compo">
+    <file>duct.png</file>
+    <file>box.png</file>
+    <file>trench.png</file>
+    <file>pipe.png</file>
+    <file>stair.png</file>
+    <file>plinth.png</file>
+    <file>door.png</file>
+    <file>rail.png</file>
+    <file>slab.png</file>
+    <file>column.png</file>
+    <file>wall.png</file>
+    <file>wall.piko</file>
+  </qresource>
+</RCC>
